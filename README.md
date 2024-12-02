@@ -45,7 +45,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 1 - Clone o repositório:
 
-    git clone https://github.com/seu-usuario/Apis_Redis_Node.git
+    git clone https://github.com/LucasWASilva/Apis_Redis_Node.git
     cd Apis_Redis_Node
 
 2 - Configure o ambiente:
